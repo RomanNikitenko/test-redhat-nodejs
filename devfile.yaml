@@ -1,10 +1,10 @@
 schemaVersion: 2.1.0
 metadata:
-  name: ubi9-openjdk-21-runtime-ld-path
+  name: ubi9-ubi-ld-path
 components:
   - name: tools
     container:
-      image: registry.access.redhat.com/ubi9/openjdk-21-runtime
+      image: registry.access.redhat.com/ubi9/ubi:9.3-1476
       args: ['tail', '-f', '/dev/null']
       endpoints:
         - exposure: public
