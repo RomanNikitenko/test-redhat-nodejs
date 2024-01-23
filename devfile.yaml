@@ -1,10 +1,10 @@
 schemaVersion: 2.1.0
 metadata:
-  name: ubi9-ruby-30-ld-path
+  name: ubi9-php-81-ld-path
 components:
   - name: tools
     container:
-      image: registry.access.redhat.com/ubi9/ruby-30:1-138
+      image: registry.access.redhat.com/ubi9/php-81:1-43
       args: ['tail', '-f', '/dev/null']
       endpoints:
         - exposure: public
