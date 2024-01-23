@@ -1,2 +1,2 @@
 # test-redhat-nodejs
-[ubi9/ubi-minimal Image link](https://catalog.redhat.com/software/containers/ubi9/ubi-minimal/615bd9b4075b022acc111bf5?architecture=amd64&image=6571485f7d84e02a6bd07b5e&container-tabs=overview)
+[ubi9-perl-532 Image link](https://catalog.redhat.com/software/containers/ubi9/perl-532/61a6115ec17162a20c1c6a67?architecture=amd64&image=6571695085c49014ac411d0d&container-tabs=overview)
