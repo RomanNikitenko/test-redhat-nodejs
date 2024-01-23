@@ -1,2 +1,2 @@
 # test-redhat-nodejs
-[ubi9/nodejs-16 Image link](https://catalog.redhat.com/software/containers/ubi9/nodejs-16/61a60604c17162a20c1c6a2e?architecture=amd64&image=657165c139a638623d7aa7ad&container-tabs=overview)
+[ubi9-podman Image link](https://catalog.redhat.com/software/containers/ubi9/podman/618aa2ad4ae373968756826c?architecture=amd64&image=6571632a54cbee8d3256719a&container-tabs=overview)
