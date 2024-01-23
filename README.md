@@ -1,2 +1,2 @@
 # test-redhat-nodejs
-[Image link](https://catalog.redhat.com/software/containers/ubi9/nodejs-20/64770ac7a835530172eee6a9?architecture=amd64&image=657165701b7d8d90e78903ce&container-tabs=overview)
+[Ruby 3.0 Image link](https://catalog.redhat.com/software/containers/ubi9/ruby-30/61a61232c17162a20c1c6a6a?architecture=amd64&image=6571693e0a399224c62c2e40&container-tabs=overview)
