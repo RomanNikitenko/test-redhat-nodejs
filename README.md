@@ -1,2 +1,2 @@
 # test-redhat-nodejs
-[OpenJDK 11 Image link](https://catalog.redhat.com/software/containers/ubi9/openjdk-11/61ee7bafed74b2ffb22b07ab?architecture=amd64&image=65a98e53c5ddd75dc559619b&container-tabs=overview)
+[ubi9/ubi-minimal Image link](https://catalog.redhat.com/software/containers/ubi9/ubi-minimal/615bd9b4075b022acc111bf5?architecture=amd64&image=6571485f7d84e02a6bd07b5e&container-tabs=overview)
