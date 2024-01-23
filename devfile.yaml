@@ -1,10 +1,10 @@
 schemaVersion: 2.1.0
 metadata:
-  name: ubi9-php-81-ld-path
+  name: ubi9-openjdk-11-ld-path
 components:
   - name: tools
     container:
-      image: registry.access.redhat.com/ubi9/php-81:1-43
+      image: registry.access.redhat.com/ubi9/openjdk-11:1.17-1.1705602311
       args: ['tail', '-f', '/dev/null']
       endpoints:
         - exposure: public

@@ -1,2 +1,2 @@
 # test-redhat-nodejs
-[PHP 8.1 Image link](https://catalog.redhat.com/software/containers/ubi9/php-81/62e8e662f6d3d47e19779b01?architecture=amd64&image=657169b9160f22feda11c466&container-tabs=overview)
+[OpenJDK 11 Image link](https://catalog.redhat.com/software/containers/ubi9/openjdk-11/61ee7bafed74b2ffb22b07ab?architecture=amd64&image=65a98e53c5ddd75dc559619b&container-tabs=overview)
