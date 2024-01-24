@@ -1,10 +1,10 @@
 schemaVersion: 2.1.0
 metadata:
-  name: ubi9-podman-ld-path
+  name: busybox-1-36-1-ld-path
 components:
   - name: tools
     container:
-      image: registry.access.redhat.com/ubi9/podman:9.3-8
+      image: docker.io/busybox:1.36.1
       args: ['tail', '-f', '/dev/null']
       endpoints:
         - exposure: public
