@@ -1,10 +1,10 @@
 schemaVersion: 2.1.0
 metadata:
-  name: alpine-3-19-ld-path
+  name: alpine-3-18-node-18-ld-path
 components:
   - name: tools
     container:
-      image: docker.io/alpine:3.19.0
+      image: docker.io/node:18.18.2-alpine3.18
       args: ['tail', '-f', '/dev/null']
       endpoints:
         - exposure: public
