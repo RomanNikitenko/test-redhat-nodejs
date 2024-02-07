@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: ubi8-ld-path
+  name: ubi8-devspaces-jenkins
 components:
   - name: tools
     container:
