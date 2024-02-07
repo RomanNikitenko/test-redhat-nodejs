@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: ubi9-podman-ld-path
+  name: ubi9-podman-devspaces-jenkins
 components:
   - name: tools
     container:
