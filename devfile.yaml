@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: ubi9-redhat-nodejs-ld-path
+  name: ubi9-devspaces-jenkins
 components:
   - name: tools
     container:
